@@ -1,6 +1,5 @@
 # Unit 2 Challenge: Portfolio
 
-Dear Positive Intelligence Team, 
 
 I am an innovative data-driven designer, inspired by empathy for users pain and needs; with an in-depth understanding of UX principles and methodologies, and its influence on business fulfillment; I lead projects from initial briefing to launch day and beyond, with direct responsibility for the day-to-day management of high quality user-centred content and workflow using relevant design applications.
 
