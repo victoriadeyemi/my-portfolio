@@ -44,8 +44,8 @@ li {
 }
 
 .hero-banner div, .hero-banner div h2 {
-  text-align: center;
-  align-items: center;
+  text-align: left;
+  align-items: left;
   width: 100%;
 }
 
