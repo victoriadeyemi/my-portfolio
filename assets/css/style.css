@@ -18,9 +18,9 @@ h1 {
 }
 
 h2 {
-  margin: 0;
+  margin: 10;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
 }
 
 p {
@@ -57,11 +57,7 @@ margin: auto;
 .page-section {
   display:flex;
   justify-content: space-between;
-}
-
-.work {
-  display:flex;
-  justify-content: space-between;
+  margin: auto;
 }
 
 #project-image {
