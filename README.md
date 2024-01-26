@@ -8,6 +8,9 @@ As a creative problem solver, thrilled by learning new things and open-minded to
 I have experience using analytics, user feedback, and user research to evaluate and improve user experience. I am adept at creating clear, seamless user experience and publishing interactive content; and I would love to work with you.
 
 
-Kind regards,
-
 Victoria Adeyemi.
+
+URL of deployed application: 
+URL of Github repository: 
+Screenshot of deployed application: ![Screenshot of deployed application](assets/images/image_name.png)
+
