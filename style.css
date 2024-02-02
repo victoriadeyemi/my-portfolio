@@ -69,10 +69,6 @@ nav ul li {
   color:black;
 }
 
-* {
-  box-sizing: border-box;
-}
-
 .wrapper {
   height: 100%;
   margin: 0;
