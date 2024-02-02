@@ -17,4 +17,3 @@ URL of deployed application: https://victoriadeyemi.github.io/my-portfolio/
 URL of Github repository: https://github.com/victoriadeyemi/my-portfolio
 Screenshot of deployed application: ![Screenshot of deployed application](assets/images/my-portfolio-deployed-live.png)
 
-
