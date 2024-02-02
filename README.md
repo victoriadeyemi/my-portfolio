@@ -15,5 +15,5 @@ Refactored the code base appropriately.
 
 URL of deployed application: 
 URL of Github repository: https://github.com/victoriadeyemi/my-portfolio
-Screenshot of deployed application: ![Screenshot of deployed application](assets/images)
+Screenshot of deployed application: ![Screenshot of deployed application](assets/images/my-portfolio-deployed-live.png)
 
