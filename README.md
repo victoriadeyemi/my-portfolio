@@ -11,6 +11,6 @@ I have experience using analytics, user feedback, and user research to evaluate 
 Victoria Adeyemi.
 
 URL of deployed application: 
-URL of Github repository: 
+URL of Github repository: https://github.com/victoriadeyemi/my-portfolio
 Screenshot of deployed application: ![Screenshot of deployed application](assets/images/image_name.png)
 
